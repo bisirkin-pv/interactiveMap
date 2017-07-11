@@ -1,2 +1,2 @@
 # interactiveMap
-extended interactive map for syte
+extended interactive map for site
